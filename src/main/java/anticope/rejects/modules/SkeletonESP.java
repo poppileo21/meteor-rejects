@@ -52,7 +52,7 @@ public class SkeletonESP extends Module {
     private final Freecam freecam;
 
     public SkeletonESP() {
-        super(MeteorRejectsAddon.CATEGORY, "skeleton-esp", "Looks cool as fuck");
+        super(MeteorRejectsAddon.CATEGORY, "skeleton-esp", "Looks cool");
         freecam = Modules.get().get(Freecam.class);
     }
 
